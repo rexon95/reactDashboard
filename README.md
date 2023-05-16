@@ -4,7 +4,7 @@ Demo Creads:
   user : candidate@sigmoid.com
   pass : Sigmoid#123
 
-Demo Link:
+Demo Link: https://react-dashoard.vercel.app/
 
 
 Dependencies Used : 
